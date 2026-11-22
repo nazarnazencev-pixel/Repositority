@@ -1,4 +1,5 @@
-<img width="1350" height="16384" alt="edu vsu ru_mod_quiz_review php_attempt=5554463 cmid=1392519 showall=1" src="https://github.com/user-attachments/assets/4d1ea16c-b4c4-44f8-9dc7-a946e15d4507" />
+<img width="1348" height="16379" alt="Test_7_ud" src="https://github.com/user-attachments/assets/88309794-3833-4271-b75b-2f6490b6e131" />
+
 
 <img width="706" height="611" alt="image" src="https://github.com/user-attachments/assets/4c3fc961-6831-4ffd-a39e-f69487482ebf" />
 
